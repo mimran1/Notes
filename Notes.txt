@@ -2,3 +2,4 @@ Creating Mobile Apps with Xamarin.Forms book
 	https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/
 
 https://www.youtube.com/watch?v=UFl3puh074I
+https://www.cjponyparts.com/resources/2017-mustang-vs-2018-mustang
