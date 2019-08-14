@@ -3,3 +3,16 @@ Creating Mobile Apps with Xamarin.Forms book
 
 https://www.youtube.com/watch?v=UFl3puh074I
 https://www.cjponyparts.com/resources/2017-mustang-vs-2018-mustang
+
+Controls:
+1. Create a button on top right. Call it "Add".
+2. Create a list view that displays all the users.
+3. Create a TableView to edit user info.
+4. On the tableview add a button called "Save".
+
+App behaviour:
+1. Have users click on Add button to add more users.
+2. When users click on the Add button they must be directed to another page where they enter the info.
+3. If users press back button then any update is discarded and its as if nothing happened.
+4. Have users press the Save button to persist changes.
+5. Nothing should be displayed on the home screen if there are no users added.
