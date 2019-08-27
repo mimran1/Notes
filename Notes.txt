@@ -19,3 +19,5 @@ App behaviour:
 
 
 1-800-727-7000
+
+https://www.wintellect.com/model-view-viewmodel-mvvm-explained/
