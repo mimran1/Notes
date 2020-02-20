@@ -22,3 +22,6 @@ App behaviour:
 
 https://www.wintellect.com/model-view-viewmodel-mvvm-explained/
 https://www.youtube.com/watch?v=leG0U5wzGlA
+
+https://oakdome.com/programming/MSAccess_Passing_Query_Parameters_From_Forms.php
+https://stackoverflow.com/questions/34904310/calling-access-2013-module-from-c-sharp-winform
